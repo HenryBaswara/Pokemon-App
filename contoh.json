@@ -1,0 +1,9 @@
+{
+  "nama": "Henry Baswara",
+  "umur": 30,
+  "alamat":{
+    "jalan":"jl.contoh",
+    "kota":"serang"
+  },
+  "hobi": ["coding", "jogging", "riding"]
+}
